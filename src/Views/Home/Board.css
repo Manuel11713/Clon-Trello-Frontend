@@ -1,0 +1,9 @@
+.card-board{
+    transition: 0.3s;
+}
+a:hover{
+    text-decoration: none;
+}
+.card-board:hover{
+    box-shadow: 0px 0px 19px 0px rgba(43,80,227,1);
+}
